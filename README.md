@@ -8,20 +8,14 @@ Com **mais de 20 anos de experiência na área de TI**, possuo uma trajetória s
 
 ### 🌐 Conecte-se Comigo
 
-<p align="left">
-  <a href="https://linkedin.com" target="_blank"><img src="https://shields.io"></a>
-  <a href="mailto:jander.penco@yahoo.com.br" target="_blank"><img src="https://shields.io"></a>
-</p>
+[![LinkedIn](https://shields.io)](https://linkedin.com)
+[![Email](https://shields.io)](mailto:jander.penco@yahoo.com.br)
 
 ---
 
 ### 🎓 Certificações em Destaque
 
-<p align="left">
-  <a href="https://oracle.com" target="_blank">
-    <img src="https://shields.io" alt="Oracle OCI Certified">
-  </a>
-</p>
+![Oracle OCI Certified](https://shields.io)
 
 ---
 
@@ -54,10 +48,9 @@ Com **mais de 20 anos de experiência na área de TI**, possuo uma trajetória s
 
 ### 📊 Estatísticas do GitHub
 
-<p align="left">
-  <img src="https://vercel.app" alt="Estatísticas do GitHub" height="150" />
-  <img src="https://vercel.app" alt="Linguagens mais usadas" height="150" />
-</p>
+![Estatísticas do GitHub](https://vercel.app)
+
+![Linguagens mais usadas](https://vercel.app)
 
 ---
 
