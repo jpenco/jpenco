@@ -8,14 +8,15 @@ Com **mais de 20 anos de experiência na área de TI**, possuo uma trajetória s
 
 ### 🌐 Conecte-se Comigo
 
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-[![Email](https://shields.io)](mailto:jander.penco@yahoo.com.br)
+| Rede Social | E-mail |
+| :--- | :--- |
+| [![LinkedIn](https://shields.io)](https://linkedin.com) | [![Email](https://shields.io)](mailto:jander.penco@yahoo.com.br) |
 
 ---
 
 ### 🎓 Certificações em Destaque
 
-![Oracle OCI Certified](https://shields.io)
+* **Oracle Certified Cloud Infrastructure (OCI)**
 
 ---
 
@@ -48,12 +49,12 @@ Com **mais de 20 anos de experiência na área de TI**, possuo uma trajetória s
 
 ### 📊 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://vercel.app)
-
-![Linguagens mais usadas](https://vercel.app)
+| Atividade Geral | Linguagens Mais Utilizadas |
+| :---: | :---: |
+| ![Estatísticas do GitHub](https://vercel.app) | ![Linguagens mais usadas](https://vercel.app) |
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com" alt="Contador de Visitas" />
+  Visitas ao perfil: <img src="https://komarev.com" alt="Contador de Visitas" />
 </p>
