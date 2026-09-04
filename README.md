@@ -8,15 +8,14 @@ Com **mais de 20 anos de experiência na área de TI**, possuo uma trajetória s
 
 ### 🌐 Conecte-se Comigo
 
-| Rede Social | E-mail |
-| :--- | :--- |
-| [![LinkedIn](https://shields.io)](https://linkedin.com) | [![Email](https://shields.io)](mailto:jander.penco@yahoo.com.br) |
+* **LinkedIn:** [://linkedin.com](https://://linkedin.com)
+* **E-mail:** [jander.penco@yahoo.com.br](mailto:jander.penco@yahoo.com.br)
 
 ---
 
 ### 🎓 Certificações em Destaque
 
-* **Oracle Certified Cloud Infrastructure (OCI)**
+* 🚀 **Oracle Certified Cloud Infrastructure (OCI)**
 
 ---
 
@@ -44,17 +43,3 @@ Com **mais de 20 anos de experiência na área de TI**, possuo uma trajetória s
 * **Rede D'Or** | Especialista em TI — Atuação em Projeto Greenfield de Prontuário Eletrônico e implantação de infraestrutura em novas unidades assistenciais.
 * **Capgemini** | Consultor em Soluções — Sustentação técnica e monitoramento de ambientes de missão crítica.
 * **Equinix** | Operador de Infraestrutura Bilíngue — Gestão de chamados e infraestrutura física em data center global.
-
----
-
-### 📊 Estatísticas do GitHub
-
-| Atividade Geral | Linguagens Mais Utilizadas |
-| :---: | :---: |
-| ![Estatísticas do GitHub](https://vercel.app) | ![Linguagens mais usadas](https://vercel.app) |
-
----
-
-<p align="center">
-  Visitas ao perfil: <img src="https://komarev.com" alt="Contador de Visitas" />
-</p>
